@@ -1,6 +1,5 @@
 # Portfoli2.0
-New iteration of portfolio that encompasses front-end knowledge
 
-(URL)
+https://jessej713.github.io/Portfoli2.0/
 
 (SCREENSHOT)
