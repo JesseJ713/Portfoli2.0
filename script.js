@@ -2,6 +2,13 @@
 function onClick(element) {
   document.getElementById("img01").src = element.src;
   document.getElementById("modal01").style.display = "block";
+
+  var repoAttr = element.getAttribute('data-repo');
+  document.getElementById("repo").href = repoAttr;
+
+  var deployedAttr = element.getAttribute('data-deployed');
+  document.getElementById("deployedPage").href = deployedAttr;
+  
   var captionText = document.getElementById("caption");
   captionText.innerHTML = element.alt;
 }
