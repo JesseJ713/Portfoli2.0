@@ -2,7 +2,7 @@
 
 https://jessej713.github.io/Portfoli2.0/
 
-![Portfolio Screenshot](/portfolio-snippet.PNG?raw=true "Portfolio")
+![Portfolio Screenshot](./assets/portfolio-snippet.PNG?raw=true "Portfolio")
 
 ## Description
 
